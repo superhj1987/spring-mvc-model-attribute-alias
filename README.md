@@ -40,7 +40,7 @@ In this case, u can use the SuishenServletModelAttributeMethodProcessor.
 
 ## Usage
 
-In the spring mvs config xml, do as follow:
+In the spring mvc config xml, do as follow:
 
     <mvc:annotation-driven>
         ...
