@@ -1,3 +1,6 @@
+**The repository is deprecated, moved to https://github.com/superhj1987/awesome-libs/blob/master/doc/spring-mvc-model-attribute-alias.md
+**
+
 # spring-mvc-model-attribute-alias
 
 ## Why
